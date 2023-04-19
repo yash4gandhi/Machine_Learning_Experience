@@ -1,6 +1,4 @@
-# Machine_Learning_Experience
-
-## My experience in Machine Learning and Natural Language Processing:
+# My experience in Machine Learning and Natural Language Processing:
 
 Research Experience:<br>
 Unsupervised WhatsApp Fake News Detection Using Semantic Search: https://github.com/yash4gandhi/Unsupervised-WhatsApp-fake-news-detection-using-semantic-search : I worked on determining the authenticity of messages forwarded on WhatsApp messenger using a semantic search based approach by applying BERT transfer learning model.
