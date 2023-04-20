@@ -14,5 +14,5 @@ Focus: Neural Networks, Back Propagation, Genetic Algorithm, Fuzzy Control Syste
 Certification course by Fractal Analytics on Machine Learning and Data Analysis:https://github.com/yash4gandhi/Machine_Learning_and_Data_Analysis_by-Fractal_Analytics
 Focus: Data Cleaning, Data Analysis and Visualization, Neural Networks, Supervised and Unsupervised Learning, SVM, Time series, Naive Bayes, Decision Tree, Ensemble learning
 <br><br>
-Fundamentals of Computation Intelligence:https://github.com/yash4gandhi/Fundamentals_of_Computational_Intelligence
+Fundamentals of Computational Intelligence:https://github.com/yash4gandhi/Fundamentals_of_Computational_Intelligence
 Focus:  Basics of Artificial Neural Networks and Convolutional Neural Networks,  Fuzzy Controllers, ANN, CNN, RNN, Basics of Natural Language Processing
