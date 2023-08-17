@@ -1,7 +1,17 @@
 # My experience in Machine Learning and Natural Language Processing:
 
-Research Experience:<br>
-Unsupervised WhatsApp Fake News Detection Using Semantic Search: https://github.com/yash4gandhi/Unsupervised-WhatsApp-fake-news-detection-using-semantic-search : I worked on determining the authenticity of messages forwarded on WhatsApp messenger using a semantic search based approach by applying BERT transfer learning model.
+Research Assistant | University of Southern California June 2023 – Present<br>
+• Performed Deep Generative Modeling of physical vapor deposition (PVD) dataset for Sandia National Lab.<br>
+• Used Denoising Diffusion probabilistic and Implicit models (DDPM, DDIM) on the PVD data.<br>
+• Embedded the deep generative model in offline reinforcement learning to create thin film synthesis structures.<br>
+<br><br>
+Research Assistant | Sardar Patel Institute of Technology Jan 2020 - May 2020<br>
+Unsupervised WhatsApp Fake News Detection Using Semantic Search<br>
+• Proposed and implemented a solution to determine the authenticity of messages forwarded on WhatsApp Messenger. <br>
+• Devised a semantic search-based approach using BERT transfer learning model to determine the veracity of the claims <br>
+stated in the messages with an accuracy of 78.09% by using cosine similarity with corresponding authentic news sources.<br>
+• Performed web-scraping using selenium web-driver to create training and testing database
+<br
 <br><br>
 Apart from that I have taken the following academic courses to learn the fundamentals of Machine Learning:
 <br>
