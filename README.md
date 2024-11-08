@@ -11,7 +11,7 @@ Unsupervised WhatsApp Fake News Detection Using Semantic Search<br>
 • Devised a semantic search-based approach using BERT transfer learning model to determine the veracity of the claims <br>
 stated in the messages with an accuracy of 78.09% by using cosine similarity with corresponding authentic news sources.<br>
 • Performed web-scraping using selenium web-driver to create training and testing database
-<br
+<br>
 <br><br>
 Apart from that I have taken the following academic courses to learn the fundamentals of Machine Learning:
 <br>
