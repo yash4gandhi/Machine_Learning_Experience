@@ -16,10 +16,9 @@ experimental validation and significantly accelerating cancer therapeutic resear
 <br><br>
 ## Research Assistant | Sardar Patel Institute of Technology Jan 2020 - May 2020<br>
 Unsupervised WhatsApp Fake News Detection Using Semantic Search<br>
-• Proposed and implemented a solution to determine the authenticity of messages forwarded on WhatsApp Messenger. <br>
-• Devised a semantic search-based approach using BERT transfer learning model to determine the veracity of the claims <br>
-stated in the messages with an accuracy of 78.09% by using cosine similarity with corresponding authentic news sources.<br>
-• Performed web-scraping using selenium web-driver to create training and testing database
+• Proposed and implemented a solution for determining the authenticity of messages forwarded on WhatsApp Messenger 
+using a semantic search-based approach with a BERT transfer learning model.  <br>
+• Achieved 78.09% accuracy in detecting fake news using cosine similarity to compare messages with reliable news sources.  
 <br>
 <br><br>
 Apart from that I have taken the following academic courses to learn the fundamentals of Machine Learning:
