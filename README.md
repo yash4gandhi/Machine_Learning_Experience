@@ -1,9 +1,18 @@
 # My experience in Machine Learning and Natural Language Processing:
 
 Research Assistant | University of Southern California June 2023 – Present<br>
-• Performed Deep Generative Modeling of physical vapor deposition (PVD) dataset for Sandia National Lab.<br>
-• Used Denoising Diffusion probabilistic and Implicit models (DDPM, DDIM) on the PVD data.<br>
-• Embedded the deep generative model in offline reinforcement learning to create thin film synthesis structures.<br>
+• Enhanced the accuracy of oil production estimates at petroleum wells from 30% to 78% by leveraging advanced generative 
+AI models, including TimeGrad and Informer, for precise forecasting of long-sequence multi-well production data.<br> 
+• Improved CFD simulations using Fourier Neural Operators and experimental field data to accurately forecast methane 
+emissions from structurally compromised oil wells, ensuring safety and supporting greenhouse gas reduction targets. <br>
+• Collaborated with the Ershaghi Center for Energy Transition (ECET) to develop AI models for analyzing noisy, irregular time 
+series from airborne spectrometers, improving the accuracy of global methane emission mapping. <br>
+• Streamlined real-time denoising of electron microscope images with AWS pipeline integrated to web interface for analysis. 
+• Reduced workflow overhead by 40%, enabling researchers at Sandia National Lab to upload, analyze and visualize images. <br>
+• Employed unsupervised DnCNN, to denoise in-situ TEM data, improving signal-to-noise ratio by 36% for enhanced structural 
+analysis of iron-oxide transformation.  <br>
+• Employed Gen AI - Diffusion to generate protein peptide sequences for Cancer research, attaining 88% accuracy in 
+experimental validation and significantly accelerating cancer therapeutic research timelines. <br>
 <br><br>
 Research Assistant | Sardar Patel Institute of Technology Jan 2020 - May 2020<br>
 Unsupervised WhatsApp Fake News Detection Using Semantic Search<br>
