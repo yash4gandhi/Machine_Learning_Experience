@@ -1,6 +1,6 @@
 # My experience in Machine Learning and Natural Language Processing:
 
-## Research Assistant | University of Southern California June 2023 – Present<br>
+## Research Programmer | University of Southern California June 2023 – Present<br>
 • Enhanced the accuracy of oil production estimates at petroleum wells from 30% to 78% by leveraging advanced generative 
 AI models, including TimeGrad and Informer, for precise forecasting of long-sequence multi-well production data.<br> 
 • Improved CFD simulations using Fourier Neural Operators and experimental field data to accurately forecast methane 
